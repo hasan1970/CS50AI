@@ -1,0 +1,1 @@
+This program explores the idea of dealing with uncertain events using Probablity. PageRank is used to rank web pages by importance. The sample_pagerank function estimates the the PageRank of each page using sampling while the iterate_pagerank uses iterative formula method.
