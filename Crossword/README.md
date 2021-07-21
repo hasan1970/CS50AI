@@ -1,0 +1,1 @@
+This program is an AI to generate crossword puzzles. The challenge of the program is to find a satisfying assignment: a different word (from a given vocabulary list) for each variable such that all of the unary and binary constraints are met.
