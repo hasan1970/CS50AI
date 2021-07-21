@@ -1,0 +1,2 @@
+# CS50AI
+These are the projects from Harvard's CS50 Introduction to Artificial Intelligence course.
